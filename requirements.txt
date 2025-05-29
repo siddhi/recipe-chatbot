@@ -4,3 +4,7 @@ litellm
 python-dotenv
 httpx
 rich
+pandas
+numpy
+scikit-learn
+judgy
